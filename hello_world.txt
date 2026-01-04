@@ -1,1 +1,2 @@
 Hello world
+I try to use vs code commit message
